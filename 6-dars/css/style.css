@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+width: 1440px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+header{
+     background-color: #1391CEB2;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     width: 1440px;
+}
+.logo{
+    width: 192px;
+   height: 54px;
+   margin-top: 41px;
+  
+
+}
+.nobar{
+display: flex;
+justify-content: space-around;
+height:150px;
+
+
+
+}
+ul{
+    display: flex;
+gap: 30px;
+margin-top: 57px;
+
+
+
+}
+ li{
+    list-style: none;
+
+}
+.color{
+   color: #14274C; 
+}
+
+a{
+text-decoration: none;
+color: aliceblue;
+
+}
+
+.docs{
+    color: aliceblue;
+}
+.download{
+    color: #14274C;
+    border-radius: 24px;
+
+}
+.card{
+    background-color: aliceblue;
+    padding: 9px 18px 9px 18px;
+}
+.main{
+  
+    color: #25468A;
+    justify-content:space-between;
+    gap: 100px;
+ 
+}
+
+
+  h2{font-size: 92px; 
+
+}
+   h6{font-size: 32px;
+
+color: #1391CE;}
+p{
+    
+    font-size: 20px;}
+  .navbar{ 
+    display: flex; 
+  background-color:#1391CEB2 ;
+  padding-top: 30px;
+  padding-bottom: 30px;
+justify-content: space-around;
+  }
+.sections{
+    display: flex;
+   text-align: center;
+padding-top: 150px;
+justify-content: center;
+  gap: 30px;
+
+}
+
+#maininfo{
+    height: 2273px ;
+    background-color: #E9F5FF;
+}
+  .card2{
+    width: 352px;
+    height:189px;
+background-color: #0061b6b2;
+color: #E9F5FF;
+padding-top: 70px;
+font-size: 22px;
+border-radius:10px ;
+  }
+.heading{
+    font-size: 36px;
+    color:#1391CE ;
+    text-align: center;
+   
+}
+    .head{
+         padding-top: 50px;
+    }
+    .next1{
+padding-top: 50px;
+display: flex;
+    }
+.next{
+    padding-left: 130px;
+}
+.nextnext{
+padding-left: 90px;
+
+}
+ .nexttext{
+padding-bottom: 30px;
+width: 400px;
+color:#4F4F4F ;
+ }  
+ .nexttext1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+ } 
+.hh6{
+    padding-bottom: 30px;
+}
+.section2{
+display: flex;
+
+width: 400px;
+padding-top:100px;
+}
+.list{
+    display: block;
+    padding-bottom: 80px;
+    
+}
+.img1{
+   vertical-align: middle; 
+}
+.section21{
+
+    padding-left: 200px;
+}
+
+.h7{
+  padding-bottom: 1px;
+  
+}
+.img3{
+    padding-left: 70px;
+}
+.section3{display: flex;
+
+  
+    padding-top: 50px;
+padding-left: 140px;
+}
+.list1{
+    display: block;
+
+        
+}
+.section33{
+    width: 380px;
+    padding-left: 80px;
+   
+}
+.hh7{
+    padding-top: 30px;
+}
+.finish{
+display: flex;
+justify-content: space-around;
+width: 1440px;
+height: 144px;
+background-color:#1391CE ;
+padding-top: 70px;
+}
+
+

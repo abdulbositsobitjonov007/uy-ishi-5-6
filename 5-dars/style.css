@@ -1,0 +1,118 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+a{
+text-decoration: none;
+
+}
+.container{
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.logo{
+vertical-align: middle;
+}
+.menu{
+    text-decoration: none;
+    display: inline-block;
+    list-style: none;
+    margin-left: 500px;
+    
+
+}
+.menu li{
+    display: inline-block;
+    margin-left: 50px;
+   
+}
+i{
+    text-decoration-color: aliceblue;
+}
+header{
+    background-color: black;
+}
+.menu li a{
+font-size: 20px;
+color: aliceblue;}
+
+
+.card{
+display: inline-block;
+width: 1000px;
+border: 5px solid black;
+border-radius: 15px;
+}
+.info{
+    margin: 40px;
+}
+h1{
+    margin: 30px;
+    font-size: 60px;
+}    
+
+p{
+    font-size: 25px;
+    margin: 20px;
+    color: rgb(158, 0, 0);
+}
+.infomain{
+text-decoration-thickness: dashed;
+}
+h4{
+    margin: 30px;
+    font-size:25px ;
+}
+ul li{
+font-size: 20px;
+margin-bottom: 7px;
+}
+.infomain{
+margin: 10px;
+
+}
+footer {
+    background-color: #111;
+    color: #ccc;
+    text-align:left;
+   margin-top: 15px;
+    font-size: 14px;
+    height: 300px;
+}
+
+h3{
+    margin-left: 9%;
+    font-size: 30px;
+}
+h3 img{
+    margin: 40px;
+}
+
+
+.finish{
+   padding-top:60px;
+}
+.second{font-size: 25px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+}
+.card1{
+    box-sizing: border-box;
+    border: 5px solid lightgrey;
+    border-radius: 25px;
+    background-color: black;
+}
+.second1{
+    color: aliceblue;
+    
+}
+.card3{
+    box-sizing: border-box;
+        border: 5px solid lightgrey;
+        border-radius: 25px;
+        background-color: rgb(255, 255, 255);
+    
+}
